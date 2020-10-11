@@ -1,3 +1,5 @@
+MEMORY
+
 mmsek
 17419
 28528
